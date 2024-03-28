@@ -13,11 +13,13 @@
 4. Click the attack or defend buttons to compete with your opponent. The loser will be determined based on who gets their health status to zero first.
 5. You may reset the game and return you and your opponent's health status to full. You will also toss the coin again and follow the procedures
    stated in Instruction #3.
-
+   
+## Members:
+1. Garcia, Adrian Julian Bonayog
+2. Pandatu, Tatiana Margaret Mago
+3. Yeung, Ayesha Vernice Andang
+4. Borja, Andrea Nicole Duco
+5. Dalaorao, Sofia Shire Bolanio
+   
 # Have Fun!
-#### Members:
-1. Sofia Shire Dalaorao
-2. Adrian Julian Garcia
-3. Ayesha Vernice Yeung
-4. Andrea Nicole Borja
-5. Tatiana Margaret Pandatu
+
