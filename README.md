@@ -2,7 +2,7 @@
 # MMOTZpresso Cafe
 
 #### Welcome to the cafe-themed punching game titled MMOTZpresso Cafe! This game involves a player and a mystery opponent where each have to either attack or defend until one of their health status reaches zero. 
-#### The game allows a chance for the player to attack first depending on their choice when flipping the coin at the start of the game. This code is made with the application of JavaScript and CSS codes.
+#### The game allows a chance for the player to attack first depending on their choice when flipping the coin at the start of the game. This code is made with the application of JavaScript and CSS.
 #### Who will ever win? Let us find out by playing MMOTZpresso Cafe. May the best win.
 
 ## User Instructions:
