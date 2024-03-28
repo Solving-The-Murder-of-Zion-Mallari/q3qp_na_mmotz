@@ -10,7 +10,7 @@
 2. A prompt asking for your name will appear. Kindly enter your name to continue.
 3. Pick your side of the coin! If the coin lands on the choice that you picked, you will get to attack first. Otherwise you can
    either choose to attack or defend.
-4. Click the attack or defend buttons to compete with your opponent. The loser will be determined on who gets their health bar to zero first.
+4. Click the attack or defend buttons to compete with your opponent. The loser will be determined based on who gets their health bar to zero first.
 5. You may reset the game and return you and your opponent's health status to full. You will also toss the coin again and follow the procedures
    stated in Instruction #3.
 
