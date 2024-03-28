@@ -15,3 +15,9 @@
    stated in Instruction #3.
 
 # Have Fun!
+#### Members:
+1. Sofia Shire Dalaorao
+2. Adrian Julian Garcia
+3. Ayesha Vernice Yeung
+4. Andrea Nicole Borja
+5. Tatiana Margaret Pandatu
