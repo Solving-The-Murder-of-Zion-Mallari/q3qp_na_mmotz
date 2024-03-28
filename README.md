@@ -6,7 +6,7 @@
 #### Who will ever win? Let us find out by playing MMOTZpresso Cafe. May the best win.
 
 ## User Instructions:
-1. Start the game by opening our link found in our page settings: https://solving-the-murder-of-zion-mallari.github.io/q3qp_na_mmotz/
+1. Start the game by opening our link that is also found in our page settings: https://solving-the-murder-of-zion-mallari.github.io/q3qp_na_mmotz/
 2. A prompt asking for your name will appear. Kindly enter your name to continue.
 3. Pick your side of the coin! If the coin lands on the choice that you picked, you will get to attack first. Otherwise you can
    either choose to attack or defend.
